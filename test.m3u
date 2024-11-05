@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="cancro" tvg-logo="https://live.fanmingming.com/tv/cancro.png",cancro
+http://192.168.1.1:8880/hls/cancro.m3u8
+#EXTINF:-1 tvg-name="gemini" tvg-logo="https://live.fanmingming.com/tv/gemini.png",gemini
+http://192.168.1.1:8880/hls/gemini.m3u8
+#EXTINF:-1 tvg-name="sagit" tvg-logo="https://live.fanmingming.com/tv/sagit.png",sagit
+http://192.168.1.1:8880/hls/sagit.m3u8
+#EXTINF:-1 tvg-name="venus" tvg-logo="https://live.fanmingming.com/tv/venus.png",venus
+http://192.168.1.1:8880/hls/venus.m3u8
