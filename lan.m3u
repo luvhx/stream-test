@@ -1,12 +1,24 @@
-#EXTINF:-1 tvg-name="Animax-HK" tvg-logo="",Animax-HK
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="测试" tvg-logo="",测试
 http://192.168.1.1:8000/hls/amv.m3u8
 #EXTINF:-1 tvg-name="anime-a" tvg-logo="",anime-a
 http://192.168.1.1:8000/hls/anime_a.m3u8
+#EXTINF:-1 tvg-name="anime-b" tvg-logo="",anime-b
+http://192.168.1.1:8000/hls/anime_b.m3u8
 #EXTINF:-1 tvg-name="奥数魔刃" tvg-logo="",奥数魔刃
 http://192.168.1.1:8000/hls/asmr.m3u8
 #EXTINF:-1 tvg-name="STUDY-WITH-MIKU" tvg-logo="",STUDY-WITH-MIKU
 http://192.168.1.1:8000/hls/miku.m3u8
 #EXTINF:-1 tvg-name="venus" tvg-logo="",venus
 http://192.168.1.1:8000/hls/venus.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="",Animax
+http://vthanh.utako.moe/9/index.m3u8
+#EXTINF:-1 tvg-name="AT-X" tvg-logo="",AT-X
+http://vthanh.utako.moe/11/index.m3u8
+#EXTINF:-1 tvg-name="Tokyo-MX1" tvg-logo="",Tokyo-MX1
+http://vthanh.utako.moe/12/index.m3u8
+#EXTINF:-1 tvg-name="Tokyo-MX1-Test T" tvg-logo="",Tokyo-MX1-Test
+http://tv.utako.moe/mx1/index.m3u8
+#EXTINF:-1 tvg-name="AT-X-Test" tvg-logo="",AT-X-Test
+http://tv.utako.moe/at-x/index.m3u8
+#EXTINF:-1 tvg-name="Animax-HK" tvg-logo="",Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
